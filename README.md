@@ -4,7 +4,7 @@
 
 * GitHub: https://github.com/SnailZSJ/SayItAnotherWay
 * License: MIT license
-* PyPI: 
+* PyPI: https://pypi.org/project/siaw/
 * Python version: pypy3, 3.6, 3.7, 3.8
 
 ## 已支持功能列表
